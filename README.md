@@ -7,7 +7,7 @@ Estilo: Creativo / Futurista
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="Oscar Tejerina.png" />
     <source media="(prefers-color-scheme: light)" srcset="Oscar Tejerina.png" />
-    <img alt="Banner Futurista" src="assets/banner-futurista-light.png" width="100%" />
+    <img alt="Oscar Tejerina" src="Oscar Tejerina.png" width="100%" />
   </picture>
 </p>
 
